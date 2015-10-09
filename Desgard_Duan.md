@@ -4,3 +4,5 @@
 求follow！
 
 #http://www.desgard.com
+
+[blog](www.desgard.com blog) 
